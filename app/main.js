@@ -1,6 +1,6 @@
 import { render } from 'react-dom'
-import HelloWorld from './components/HelloWorld'
+import DraftJs from './components/DraftJs'
 
 var React = require('react')
 
-render(<HelloWorld />, document.getElementById('app'))
+render(<DraftJs />, document.getElementById('app'))
